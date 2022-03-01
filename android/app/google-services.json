@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "125628268507",
+    "project_id": "kalyani-paridhan",
+    "storage_bucket": "kalyani-paridhan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125628268507:android:e6e6a93b46c76a28c2f1fe",
+        "android_client_info": {
+          "package_name": "co.avitt.kalyani_paridhan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125628268507-6vda6oq7m1m2k1jr905agqlggstj364d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWyVLfg7rBGU1ToexY84d7c3r9auHoExA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125628268507-6vda6oq7m1m2k1jr905agqlggstj364d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125628268507:android:3ef6fb2c15cb70b1c2f1fe",
+        "android_client_info": {
+          "package_name": "com.example.kalyani_paridhan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125628268507-jvu1dpvprh29n70nml20smrb8svb8vmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kalyani_paridhan",
+            "certificate_hash": "7902c7f1e0f733aa88f681d4d9d8d9b567a29735"
+          }
+        },
+        {
+          "client_id": "125628268507-6vda6oq7m1m2k1jr905agqlggstj364d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWyVLfg7rBGU1ToexY84d7c3r9auHoExA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125628268507-6vda6oq7m1m2k1jr905agqlggstj364d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125628268507:android:042a06647efcb027c2f1fe",
+        "android_client_info": {
+          "package_name": "com.example.kalyani_paridhan_retail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125628268507-6vda6oq7m1m2k1jr905agqlggstj364d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWyVLfg7rBGU1ToexY84d7c3r9auHoExA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125628268507-6vda6oq7m1m2k1jr905agqlggstj364d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

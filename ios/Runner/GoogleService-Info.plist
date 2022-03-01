@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>125628268507-j07c55sf9lt5vtnhuffkm2fljv0c8vos.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.125628268507-j07c55sf9lt5vtnhuffkm2fljv0c8vos</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>125628268507-3k4n5g2lhcc3pr5q8fohp8u408o4cq3s.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCQA_JGyxI5-emBvT5SGFg-rjLs28vQL4E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>125628268507</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.avitt.kalyani-paridhan</string>
+	<key>PROJECT_ID</key>
+	<string>kalyani-paridhan</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kalyani-paridhan.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:125628268507:ios:f09a7aff6c3da717c2f1fe</string>
+</dict>
+</plist>
